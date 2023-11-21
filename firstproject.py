@@ -18,3 +18,5 @@ while True:
     led2.off()
     led3.on()
     utime.sleep(2)
+
+test
